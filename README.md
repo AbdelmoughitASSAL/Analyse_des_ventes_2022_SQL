@@ -18,14 +18,18 @@ Analyse des ventes : Identification des tendances, des produits performants et d
 
 🎯 Processus de création :
 
-Restauration de la base de données et création de vues dans SQL.
+ Restauration de la base de données et création de vues dans SQL.
 
-Connexion Power BI à SQL pour l'importation des données.
+ Connexion Power BI à SQL pour l'importation des données.
 
-Création du fond avec PowerPoint pour le design visuel.
+ Création du fond avec PowerPoint pour le design visuel.
 
-Création des tables de mesures et du calendrier avec DAX (ventes totales, coût total, profit, etc.).
+ Création des tables de mesures et du calendrier avec DAX (ventes totales, coût total, profit, etc.).
 
-Création et mise en forme des visuels pour une lecture claire et intuitive des données.
+ Création et mise en forme des visuels pour une lecture claire et intuitive des données.
 
-💻 À venir bientôt : Une version Python du projet, où je reproduirai l’analyse des données en utilisant Python pour explorer de nouvelles approches. Cette version sera bientôt disponible sur mon GitHub, restez connecté pour ne pas manquer la mise à jour !
+## À venir bientôt : Analyse des données avec Python
+
+Dans un futur proche, je vais partager une version Python du projet, où les mêmes données seront analysées, mais cette fois avec des outils Python. Restez connecté pour découvrir cette version complémentaire !
+
+Pour le moment, vous pouvez explorer le contenu actuel, et n'hésitez pas à revenir pour la mise à jour.
