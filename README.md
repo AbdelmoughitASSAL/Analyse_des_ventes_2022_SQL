@@ -1,4 +1,5 @@
 # Analyse des ventes 2022 : Tableau de bord Power BI & bientôt une version Python 🚀
+<img src="https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/1.png" alt="Dashboard RH" width="600">
 
  - **Description**
    
