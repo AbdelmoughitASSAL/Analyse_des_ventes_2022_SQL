@@ -4,6 +4,7 @@
  - **Description**
    
     Dans le cadre de mon développement professionnel, j'ai créé un tableau de bord Power BI pour analyser les ventes de l'année 2022, à partir de bases de données SQL. Ce tableau présente une vue d'ensemble des performances commerciales, mettant en lumière les ventes totales, les coûts totaux et les profits générés. L'objectif principal est de fournir une vision claire et détaillée des tendances de vente, des performances par catégorie, produit, succursale et caissier, pour aider à prendre des décisions stratégiques.
+    
 
 💡 Compétences développées :
 
