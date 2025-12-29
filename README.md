@@ -143,7 +143,7 @@ I engineered a comprehensive **dual-platform analytics solution** to analyze 202
     <img src="https://img.shields.io/badge/View_Power_BI_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboard" style="margin: 10px;">
   </a>
   
-  <a href="https://github.com/AbdelmoughitASSAL/sales-analysis-python" target="_blank">
+  <a href="https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/Ventes_2022.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Explore_Python_Version-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Analysis" style="margin: 10px;">
   </a>
   
