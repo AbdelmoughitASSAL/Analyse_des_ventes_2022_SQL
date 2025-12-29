@@ -173,11 +173,11 @@ I engineered a comprehensive **dual-platform analytics solution** to analyze 202
       <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     
-    <a href="mailto:abdelmoughit.assal@yahoo.com">
+  <a href="mailto:abdelmoughit.assal@yahoo.com">
       <img src="https://img.shields.io/badge/Email-Discuss_Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     
-    <a href="https://github.com/AbdelmoughitASSAL" target="_blank">
+  <a href="https://github.com/AbdelmoughitASSAL" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
