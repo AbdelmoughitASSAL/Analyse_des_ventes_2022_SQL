@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Dashboard Preview](https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/1.png)
+  ![Dashboard Preview](https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL/blob/main/1.png)
   
   <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 25px 0; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
@@ -31,12 +31,12 @@ I engineered a comprehensive **dual-platform analytics solution** to analyze 202
 ### **📊 Power BI Version**
 - **Perfect for:** Executives, managers, business users
 - **Features:** Drag-and-drop analytics, real-time dashboards, KPI tracking
-- **Access:** [View Power BI Project](https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/README.md)
+- **Access:** [View Power BI Project](https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL/blob/main/README.md)
 
 ### **🐍 Python Version**
 - **Perfect for:** Data scientists, analysts, technical teams
 - **Features:** Advanced statistical analysis, machine learning, custom visualizations
-- **Access:** [Explore Python Analysis](https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/Ventes_2022.ipynb)
+- **Access:** [Explore Python Analysis](https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL/blob/main/Sales_2022.ipynb)
 
 ---
 
@@ -139,11 +139,11 @@ I engineered a comprehensive **dual-platform analytics solution** to analyze 202
 
 <div align="center" style="margin: 30px 0;">
   
-  <a href="https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL" target="_blank">
+  <a href="https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL" target="_blank">
     <img src="https://img.shields.io/badge/View_Power_BI_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboard" style="margin: 10px;">
   </a>
   
-  <a href="https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL/blob/main/Ventes_2022.ipynb" target="_blank">
+  <a href="https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL/blob/main/Sales_2022.ipynb" target="_blank">
     <img src="https://img.shields.io/badge/Explore_Python_Version-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Analysis" style="margin: 10px;">
   </a>
   
